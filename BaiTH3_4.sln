@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTH3_4", "BaiTH3_4\BaiTH3_4.csproj", "{F795D15E-7160-45A3-B0ED-8F867FAA496F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F795D15E-7160-45A3-B0ED-8F867FAA496F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F795D15E-7160-45A3-B0ED-8F867FAA496F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F795D15E-7160-45A3-B0ED-8F867FAA496F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F795D15E-7160-45A3-B0ED-8F867FAA496F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D7D9D7-9FBA-4DD3-8B21-7397B5725470}
+	EndGlobalSection
+EndGlobal
